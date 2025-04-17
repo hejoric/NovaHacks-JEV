@@ -1,0 +1,16 @@
+{
+  "guides": [
+    {
+      "name": "George Mason University",
+      "details": "GMU offers Guaranteed Admission Agreements for NOVA students. Complete your associate degree and apply by the deadline."
+    },
+    {
+      "name": "Virginia Commonwealth University",
+      "details": "VCU accepts many NOVA credits. Use the Transfer Guide to match your courses and plan ahead for major requirements."
+    },
+    {
+      "name": "University of Virginia",
+      "details": "UVA encourages NOVA students to apply through the Transfer Admission Guarantee (TAG) for the College of Arts & Sciences."
+    }
+  ]
+}
