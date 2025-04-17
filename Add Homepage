@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NOVA Transfer Helper</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>NOVA Transfer Helper</h1>
+    <p>Your guide to transferring to a 4-year university.</p>
+  </header>
+
+  <main>
+    <section id="university-guides">
+      <h2>Select a University:</h2>
+      <select id="university-dropdown">
+        <option value="">-- Select --</option>
+      </select>
+      <div id="guide-display"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 NOVA Transfer Helper</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+Add Homepage
